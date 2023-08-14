@@ -1,17 +1,8 @@
-let num1 = 12
-let num2 = "2"
+// alert
+alert("oi")
 
-// soma ou concatenacao
-console.log(num1 + num2)
+// confirm
+console.log("resultado: ", confirm("vc é aluno?"))
 
-// subtração
-console.log(num1 - num2)
-
-// multiplicacao
-console.log(num1 * num2)
-
-// divisao
-console.log(num1 / num2)
-
-// resto
-console.log(num1 % num2)
+// prompt
+console.log("meu prompt é: ", prompt("qual seu nome?", "escreva aqui"))
